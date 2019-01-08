@@ -1,25 +1,30 @@
 dominio : Ordinazioni al ristorante
 
 faq :
-	- intento : antipasti di pesce
-		domande : |
-			- quale vino si può associare ad un antipasto di pesce?
-			- che bottiglia di vino va con i frutti di mare?
-		risposte : |
-			- un buon bianco abruzzese come il Trebbiano
-			- anche un frizzantinto Trentino può andare bene
-	- intento : antipasti di carne
-			...
-	- intento : primo piatto
-		domande : |
-			...
-		risposte : |
-			...
-	- intento : secondo piatto
-		domande :
-			...
-		risposte :
-			...
-	
+    - intento : antipasti di pesce
+        domande : |
+            - quale vino si può associare ad un antipasto di pesce?
+            - che bottiglia di vino va con i frutti di mare?
+        risposte : |
+            - un buon bianco abruzzese come il Trebbiano
+            - anche un frizzantinto Trentino può andare bene
+    - intento : antipasti di carne
+            ...
+    - intento : primo piatto
+        domande : |
+            ...
+        risposte : |
+            ...
+    - intento : secondo piatto
+        domande :
+            ...
+        risposte :
+            ...
+    
 glossario :
-
+    - voce : piatto
+    definizione : una portata di cibo preparato dallo chef
+    - voce : coperto
+    definizione : importo per il posto al tavolo inclusi accessori
+    
+    
